@@ -1,2 +1,2 @@
 # Introduction to Python 
- Curso inicial de Python - UFPB 
+ - Curso inicial de Python - UFPB
